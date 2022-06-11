@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murari0820
 - 👀 I’m interested in fashion, music and technology
-- 🌱 I’m currently learning 3rd year of computer science
+- 🌱 I’m currently learning 4th year of computer science
 - 📫 can reach me through mail murarilakkimsetti@gmail.com
 
 <!---
